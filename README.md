@@ -1,1 +1,5 @@
-# guia_git_colaborativa1
+# Guía colaborativa de Git
+Este repositorio es un ejercicio práctico para aprender Git en
+parejas.
+## Objetivo
+Aprender a usar ramas y merges.
