@@ -4,7 +4,9 @@ parejas.
 
 
 ## Objetivo
-Dominar Git para trabajo colaborativo.
+
+Aprender Git de forma práctica.
+
 
 ## Conceptos básicos de Git
 - Repositorio
