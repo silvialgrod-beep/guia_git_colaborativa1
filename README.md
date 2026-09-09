@@ -4,7 +4,7 @@ parejas.
 
 
 ## Objetivo
-Aprender a usar ramas y merges.
+Dominar Git para trabajo colaborativo.
 
 ## Conceptos básicos de Git
 - Repositorio
